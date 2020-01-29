@@ -7,3 +7,5 @@ git fetch
 git merge
 
 git pull
+
+git commit -a
